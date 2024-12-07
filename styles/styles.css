@@ -4,9 +4,11 @@ body {
 }
 a {
     text-decoration: none;
+    color: black;
 }
 a:hover {
     text-decoration: underline;
+    color: white;
 }
 .no-head {
     background-color: #bdfff7;
