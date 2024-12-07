@@ -1,0 +1,45 @@
+body {
+    width: 600px;
+    margin-left: 25%;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.no-head {
+    background-color: #bdfff7;
+    text-align: center;
+}
+.comment-container {
+    margin: 20px 0 30px 20%;
+}
+.flex-container {
+    display: flex;
+}
+.flex-container > label {
+    width: 100px;
+    align-self: right;
+    margin-right: 40px;
+    margin-top: 24px;
+}
+.flex-container > input, .flex-container > textarea {
+    width: 200px;
+    margin-top: 24px;
+}
+textarea {
+    height: 100px;
+}
+.fake-button {
+    width: 200px;
+    margin-left: 30%;
+    margin-top: 24px;
+}
+.the-bottom {
+    background-color: #bdfff7;
+    width: 450px;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-left: 15%;
+}
